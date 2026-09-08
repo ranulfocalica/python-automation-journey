@@ -23,9 +23,13 @@ Projects and exercises in this repository will include:
 
 python-automation-journey/
 │
+
 ├── file-management/
+
 ├── system-administration/
+
 ├── data-processing/
+
 └── exercises/
 
 ## 🚀 Current Progress
