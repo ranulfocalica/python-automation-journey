@@ -1,4 +1,3 @@
-# python-automation-journey
 # Python Automation Journey 🐍
 
 Welcome to my Python Automation Journey!
